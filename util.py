@@ -186,3 +186,4 @@ email = Email(
     mail_user=global_config.getRaw('messenger', 'email_user'),
     mail_pwd=global_config.getRaw('messenger', 'email_pwd'),
     )
+
